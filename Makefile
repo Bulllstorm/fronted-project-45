@@ -6,3 +6,6 @@ brain-games:
 	node bin/brain-games.js
 publish:
 	npm publish --dry-run
+#Линтинг
+make lint:
+	npx eslint .
