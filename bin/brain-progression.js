@@ -1,6 +1,6 @@
 import runGame from '../src/index.js';
 
-// Описание игры
+// Вопрос
 const description = 'What number is missing in the progression?';
 
 // Функция генерации случайного числа
